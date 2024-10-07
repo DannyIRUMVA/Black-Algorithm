@@ -9,3 +9,5 @@ all about algorithm and data stracture
 `3. Depth First traversal or DFS for Graph` : similar to Depth first traversal of tree.
 
 `4. Minimum Spanning Tree(MST)` : is defined as a tree-like subgraph of a connected, undirected graph that includes all the vertices of the graph. Or, to say in layman's words, it is subset of the edges of the graph that forms a tree (asyclic) where every node of the graph is a part of the tree.
+
+`5. Backtracking ` : is a problem solving algorithmic technique that involves finding a solution incrementally by trying different options and undoing them if they lead to a dead end. or as general algorithmic techinique that considers searching every possible combination in order to solve a computational problem.
