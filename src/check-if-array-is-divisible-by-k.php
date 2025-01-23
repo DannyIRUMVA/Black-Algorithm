@@ -6,7 +6,7 @@ class Solution {
 
         foreach ($arr as $a) {
             $a %= $k;
-            $a = $a < 0 ? $a + $k : $a;
+            //$a = $a < 0 ? $a + $k : $a;
             $count[$a]++;
         }
 
