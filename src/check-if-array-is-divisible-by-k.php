@@ -11,7 +11,7 @@ class Solution {
         }
 
         if ($count[0] % 2 !== 0) {
-            return false;
+            return false; //black
         }
 
         for ($i = 1; $i <= $k / 2; ++$i) {
